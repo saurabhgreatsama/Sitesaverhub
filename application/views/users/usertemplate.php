@@ -263,7 +263,7 @@
     <script src="templates/js/jquery.magnific-popup.min.js"></script>
     <script src="templates/js/jquery.animateNumber.min.js"></script>
     <script src="templates/js/scrollax.min.js"></script>
-    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false">-->
+   
     <!--</script>-->
     <!--<script src="templates/js/google-map.js"></script>-->
     <script src="templates/js/main.js"></script>
